@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 像象管見
-#+DATE: 2015-09-23 09:35:13
-#+PROPERTY: JUAN 3
+#+DATE: 2015-08-24 21:57:57.084885
+#+PROPERTY: ID KR1a0104
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷三上
 <pb:KR1a0104_WYG_003-1a>¶
 欽定四庫全書¶
 　像象管見卷三上¶
@@ -758,6 +760,7 @@
 　¶
 　¶
 　像象管見卷三上¶
+#+PROPERTY: JUAN 卷三下
 <pb:KR1a0104_WYG_003-43a>¶
 欽定四庫全書¶
 　像象管見卷三下¶
@@ -1586,4 +1589,3 @@
 　¶
 　¶
 　像象管見卷三下¶
-

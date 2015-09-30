@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 像象管見
-#+DATE: 2015-09-23 09:35:13
-#+PROPERTY: JUAN 8
+#+DATE: 2015-08-24 21:57:57.209651
+#+PROPERTY: ID KR1a0104
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷八
 <pb:KR1a0104_WYG_008-1a>¶
 欽定四庫全書¶
 　像象管見卷八¶
@@ -74,4 +76,3 @@
 　¶
 　¶
 　像象管見卷八¶
-
